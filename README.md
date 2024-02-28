@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: SREEVALSAN V</h3>
+<h3>Register Number: 212223240158<h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -69,11 +69,11 @@ G F <BR>
 F H <BR>
 <hr>
 
-
-<h1>##PROGRAM:Depth First Search uses STACK AND RECURSION</h1>
-<h1>##DEVELOPED BY:SREEVALSAN V</h1>
-<h1>##REGISTER NUMBER:21223240158</h1>
-```
+# PROGRAM:
+```PY
+#Depth First Search uses STACK AND RECURSION
+#DEVELOPED BY:SREEVALSAN V
+#REGISTER NUMBER:212223240158
 import defaultdict
 from collections import defaultdict
 def dfs(graph,start,visited,path):
@@ -105,7 +105,6 @@ print(traversedpath)
 <hr>
 
 <hr>
-
 <h3>Sample Input</h3>
 <hr>
 5 5 <BR>
@@ -116,11 +115,11 @@ print(traversedpath)
 2 4 <BR>
 <hr>
 
-
-<h1>##PROGRAM:Depth First Search uses STACK AND RECURSION</h1>
-<h1>##DEVELOPED BY:SREEVALSAN V</h1>
-<h1>##REGISTER NUMBER:21223240158</h1>
-```
+# PROGRAM:
+```PY
+#Depth First Search uses STACK AND RECURSION
+#DEVELOPED BY:SREEVALSAN V
+#REGISTER NUMBER:212223240158
 import defaultdict
 from collections import defaultdict
 def dfs(graph,start,visited,path):
